@@ -8,9 +8,9 @@ Hydrogen_Station_Credit_Evaluator
     Background info: https://ww3.arb.ca.gov/fuels/lcfs/electricity/zev_infrastructure/zev_infrastructure.htm
     
 CVRP_Survey_Map
-Visit here to see the tool in action: https://plotsrus.shinyapps.io/CVRPmapV2/
+    Visit here to see the tool in action: https://plotsrus.shinyapps.io/CVRPmapV2/
 
-This was a tool I created to explore the Clean Vehicle Rebate Program survey data on a county level. My colleague was working on an annual report of hydrogen vehicle + station progress and wanted to explore whether much variation existed in survey responses on a county level. This tool allowed quick investigation of those differences without much effort.
+    This was a tool I created to explore the Clean Vehicle Rebate Program survey data on a county level. My colleague was working on an annual report of hydrogen vehicle + station progress and wanted to explore whether much variation existed in survey responses on a county level. This tool allowed quick investigation of those differences without much effort.
 
 
 
